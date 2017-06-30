@@ -1,5 +1,5 @@
-sudo systemctl daemon-reload/
-sudo systemctl start flanneld/
-sudo systemctl start kubelet/
-sudo systemctl enable flanneld/
-sudo systemctl enable kubelet
+sudo systemctl daemon-reload
+<br>sudo systemctl start flanneld
+<br>sudo systemctl start kubelet
+<br>sudo systemctl enable flanneld
+<br>sudo systemctl enable kubelet
